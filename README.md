@@ -1,0 +1,1 @@
+A private maven repository.
